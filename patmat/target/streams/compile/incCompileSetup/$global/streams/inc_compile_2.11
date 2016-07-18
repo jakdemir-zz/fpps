@@ -1,0 +1,263 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/jak/repos/fpps/patmat/target/scala-2.11/classes
+compile options:
+1 items
+0 -> -deprecation
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.7
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+12 items
+/Users/jak/repos/fpps/patmat/src/main/scala/common/package.scala -> /Users/jak/repos/fpps/patmat/target/scala-2.11/classes/common/package$$anonfun$subFile$1.class
+/Users/jak/repos/fpps/patmat/src/main/scala/common/package.scala -> /Users/jak/repos/fpps/patmat/target/scala-2.11/classes/common/package$.class
+/Users/jak/repos/fpps/patmat/src/main/scala/common/package.scala -> /Users/jak/repos/fpps/patmat/target/scala-2.11/classes/common/package.class
+/Users/jak/repos/fpps/patmat/src/main/scala/patmat/Huffman.scala -> /Users/jak/repos/fpps/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$createCodeTree$1.class
+/Users/jak/repos/fpps/patmat/src/main/scala/patmat/Huffman.scala -> /Users/jak/repos/fpps/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$createCodeTree$2.class
+/Users/jak/repos/fpps/patmat/src/main/scala/patmat/Huffman.scala -> /Users/jak/repos/fpps/patmat/target/scala-2.11/classes/patmat/Huffman$.class
+/Users/jak/repos/fpps/patmat/src/main/scala/patmat/Huffman.scala -> /Users/jak/repos/fpps/patmat/target/scala-2.11/classes/patmat/Huffman$CodeTree.class
+/Users/jak/repos/fpps/patmat/src/main/scala/patmat/Huffman.scala -> /Users/jak/repos/fpps/patmat/target/scala-2.11/classes/patmat/Huffman$Fork$.class
+/Users/jak/repos/fpps/patmat/src/main/scala/patmat/Huffman.scala -> /Users/jak/repos/fpps/patmat/target/scala-2.11/classes/patmat/Huffman$Fork.class
+/Users/jak/repos/fpps/patmat/src/main/scala/patmat/Huffman.scala -> /Users/jak/repos/fpps/patmat/target/scala-2.11/classes/patmat/Huffman$Leaf$.class
+/Users/jak/repos/fpps/patmat/src/main/scala/patmat/Huffman.scala -> /Users/jak/repos/fpps/patmat/target/scala-2.11/classes/patmat/Huffman$Leaf.class
+/Users/jak/repos/fpps/patmat/src/main/scala/patmat/Huffman.scala -> /Users/jak/repos/fpps/patmat/target/scala-2.11/classes/patmat/Huffman.class
+binary dependencies:
+4 items
+/Users/jak/repos/fpps/patmat/src/main/scala/common/package.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/jre/lib/rt.jar
+/Users/jak/repos/fpps/patmat/src/main/scala/common/package.scala -> /Users/jak/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/Users/jak/repos/fpps/patmat/src/main/scala/patmat/Huffman.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/jre/lib/rt.jar
+/Users/jak/repos/fpps/patmat/src/main/scala/patmat/Huffman.scala -> /Users/jak/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+12 items
+/Users/jak/repos/fpps/patmat/src/main/scala/common/package.scala -> common.package
+/Users/jak/repos/fpps/patmat/src/main/scala/common/package.scala -> common.package$
+/Users/jak/repos/fpps/patmat/src/main/scala/common/package.scala -> common.package$$anonfun$subFile$1
+/Users/jak/repos/fpps/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman
+/Users/jak/repos/fpps/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$
+/Users/jak/repos/fpps/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$$anonfun$createCodeTree$1
+/Users/jak/repos/fpps/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$$anonfun$createCodeTree$2
+/Users/jak/repos/fpps/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$CodeTree
+/Users/jak/repos/fpps/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$Fork
+/Users/jak/repos/fpps/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$Fork$
+/Users/jak/repos/fpps/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$Leaf
+/Users/jak/repos/fpps/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$Leaf$
+used names:
+146 items
+/Users/jak/repos/fpps/patmat/src/main/scala/common/package.scala -> ::
+/Users/jak/repos/fpps/patmat/src/main/scala/common/package.scala -> <init>
+/Users/jak/repos/fpps/patmat/src/main/scala/common/package.scala -> <repeated>
+/Users/jak/repos/fpps/patmat/src/main/scala/common/package.scala -> Any
+/Users/jak/repos/fpps/patmat/src/main/scala/common/package.scala -> AnyRef
+/Users/jak/repos/fpps/patmat/src/main/scala/common/package.scala -> File
+/Users/jak/repos/fpps/patmat/src/main/scala/common/package.scala -> FileInputStream
+/Users/jak/repos/fpps/patmat/src/main/scala/common/package.scala -> InputStream
+/Users/jak/repos/fpps/patmat/src/main/scala/common/package.scala -> List
+/Users/jak/repos/fpps/patmat/src/main/scala/common/package.scala -> None
+/Users/jak/repos/fpps/patmat/src/main/scala/common/package.scala -> Nothing
+/Users/jak/repos/fpps/patmat/src/main/scala/common/package.scala -> Option
+/Users/jak/repos/fpps/patmat/src/main/scala/common/package.scala -> Predef
+/Users/jak/repos/fpps/patmat/src/main/scala/common/package.scala -> String
+/Users/jak/repos/fpps/patmat/src/main/scala/common/package.scala -> _root_
+/Users/jak/repos/fpps/patmat/src/main/scala/common/package.scala -> child
+/Users/jak/repos/fpps/patmat/src/main/scala/common/package.scala -> children
+/Users/jak/repos/fpps/patmat/src/main/scala/common/package.scala -> classesDir
+/Users/jak/repos/fpps/patmat/src/main/scala/common/package.scala -> common
+/Users/jak/repos/fpps/patmat/src/main/scala/common/package.scala -> exists
+/Users/jak/repos/fpps/patmat/src/main/scala/common/package.scala -> file
+/Users/jak/repos/fpps/patmat/src/main/scala/common/package.scala -> foldLeft
+/Users/jak/repos/fpps/patmat/src/main/scala/common/package.scala -> getClass
+/Users/jak/repos/fpps/patmat/src/main/scala/common/package.scala -> getParentFile
+/Users/jak/repos/fpps/patmat/src/main/scala/common/package.scala -> getResource
+/Users/jak/repos/fpps/patmat/src/main/scala/common/package.scala -> io
+/Users/jak/repos/fpps/patmat/src/main/scala/common/package.scala -> java
+/Users/jak/repos/fpps/patmat/src/main/scala/common/package.scala -> package
+/Users/jak/repos/fpps/patmat/src/main/scala/common/package.scala -> projectDir
+/Users/jak/repos/fpps/patmat/src/main/scala/common/package.scala -> resourceFile
+/Users/jak/repos/fpps/patmat/src/main/scala/common/package.scala -> resourcePath
+/Users/jak/repos/fpps/patmat/src/main/scala/common/package.scala -> scala
+/Users/jak/repos/fpps/patmat/src/main/scala/common/package.scala -> subFile
+/Users/jak/repos/fpps/patmat/src/main/scala/common/package.scala -> toURI
+/Users/jak/repos/fpps/patmat/src/main/scala/patmat/Huffman.scala -> &&
+/Users/jak/repos/fpps/patmat/src/main/scala/patmat/Huffman.scala -> +
+/Users/jak/repos/fpps/patmat/src/main/scala/patmat/Huffman.scala -> ::
+/Users/jak/repos/fpps/patmat/src/main/scala/patmat/Huffman.scala -> :::
+/Users/jak/repos/fpps/patmat/src/main/scala/patmat/Huffman.scala -> <init>
+/Users/jak/repos/fpps/patmat/src/main/scala/patmat/Huffman.scala -> ==
+/Users/jak/repos/fpps/patmat/src/main/scala/patmat/Huffman.scala -> >
+/Users/jak/repos/fpps/patmat/src/main/scala/patmat/Huffman.scala -> >=
+/Users/jak/repos/fpps/patmat/src/main/scala/patmat/Huffman.scala -> AbstractFunction2
+/Users/jak/repos/fpps/patmat/src/main/scala/patmat/Huffman.scala -> AbstractFunction4
+/Users/jak/repos/fpps/patmat/src/main/scala/patmat/Huffman.scala -> AnyRef
+/Users/jak/repos/fpps/patmat/src/main/scala/patmat/Huffman.scala -> Array
+/Users/jak/repos/fpps/patmat/src/main/scala/patmat/Huffman.scala -> Bit
+/Users/jak/repos/fpps/patmat/src/main/scala/patmat/Huffman.scala -> Boolean
+/Users/jak/repos/fpps/patmat/src/main/scala/patmat/Huffman.scala -> Char
+/Users/jak/repos/fpps/patmat/src/main/scala/patmat/Huffman.scala -> CodeTable
+/Users/jak/repos/fpps/patmat/src/main/scala/patmat/Huffman.scala -> CodeTree
+/Users/jak/repos/fpps/patmat/src/main/scala/patmat/Huffman.scala -> Exception
+/Users/jak/repos/fpps/patmat/src/main/scala/patmat/Huffman.scala -> Fork
+/Users/jak/repos/fpps/patmat/src/main/scala/patmat/Huffman.scala -> Function1
+/Users/jak/repos/fpps/patmat/src/main/scala/patmat/Huffman.scala -> Huffman
+/Users/jak/repos/fpps/patmat/src/main/scala/patmat/Huffman.scala -> Int
+/Users/jak/repos/fpps/patmat/src/main/scala/patmat/Huffman.scala -> Leaf
+/Users/jak/repos/fpps/patmat/src/main/scala/patmat/Huffman.scala -> List
+/Users/jak/repos/fpps/patmat/src/main/scala/patmat/Huffman.scala -> Nil
+/Users/jak/repos/fpps/patmat/src/main/scala/patmat/Huffman.scala -> None
+/Users/jak/repos/fpps/patmat/src/main/scala/patmat/Huffman.scala -> Predef
+/Users/jak/repos/fpps/patmat/src/main/scala/patmat/Huffman.scala -> Product
+/Users/jak/repos/fpps/patmat/src/main/scala/patmat/Huffman.scala -> ScalaRunTime
+/Users/jak/repos/fpps/patmat/src/main/scala/patmat/Huffman.scala -> Serializable
+/Users/jak/repos/fpps/patmat/src/main/scala/patmat/Huffman.scala -> Statics
+/Users/jak/repos/fpps/patmat/src/main/scala/patmat/Huffman.scala -> String
+/Users/jak/repos/fpps/patmat/src/main/scala/patmat/Huffman.scala -> Tuple2
+/Users/jak/repos/fpps/patmat/src/main/scala/patmat/Huffman.scala -> Unit
+/Users/jak/repos/fpps/patmat/src/main/scala/patmat/Huffman.scala -> _1
+/Users/jak/repos/fpps/patmat/src/main/scala/patmat/Huffman.scala -> _2
+/Users/jak/repos/fpps/patmat/src/main/scala/patmat/Huffman.scala -> _root_
+/Users/jak/repos/fpps/patmat/src/main/scala/patmat/Huffman.scala -> _toString
+/Users/jak/repos/fpps/patmat/src/main/scala/patmat/Huffman.scala -> a
+/Users/jak/repos/fpps/patmat/src/main/scala/patmat/Huffman.scala -> anyHash
+/Users/jak/repos/fpps/patmat/src/main/scala/patmat/Huffman.scala -> apply
+/Users/jak/repos/fpps/patmat/src/main/scala/patmat/Huffman.scala -> asInstanceOf
+/Users/jak/repos/fpps/patmat/src/main/scala/patmat/Huffman.scala -> augmentString
+/Users/jak/repos/fpps/patmat/src/main/scala/patmat/Huffman.scala -> b
+/Users/jak/repos/fpps/patmat/src/main/scala/patmat/Huffman.scala -> bitList
+/Users/jak/repos/fpps/patmat/src/main/scala/patmat/Huffman.scala -> bits
+/Users/jak/repos/fpps/patmat/src/main/scala/patmat/Huffman.scala -> char
+/Users/jak/repos/fpps/patmat/src/main/scala/patmat/Huffman.scala -> charPairs
+/Users/jak/repos/fpps/patmat/src/main/scala/patmat/Huffman.scala -> chars
+/Users/jak/repos/fpps/patmat/src/main/scala/patmat/Huffman.scala -> charsPair
+/Users/jak/repos/fpps/patmat/src/main/scala/patmat/Huffman.scala -> codeBits
+/Users/jak/repos/fpps/patmat/src/main/scala/patmat/Huffman.scala -> codeTable
+/Users/jak/repos/fpps/patmat/src/main/scala/patmat/Huffman.scala -> codeTrees
+/Users/jak/repos/fpps/patmat/src/main/scala/patmat/Huffman.scala -> combine
+/Users/jak/repos/fpps/patmat/src/main/scala/patmat/Huffman.scala -> common
+/Users/jak/repos/fpps/patmat/src/main/scala/patmat/Huffman.scala -> contains
+/Users/jak/repos/fpps/patmat/src/main/scala/patmat/Huffman.scala -> convert
+/Users/jak/repos/fpps/patmat/src/main/scala/patmat/Huffman.scala -> convertAcc
+/Users/jak/repos/fpps/patmat/src/main/scala/patmat/Huffman.scala -> decode
+/Users/jak/repos/fpps/patmat/src/main/scala/patmat/Huffman.scala -> decodeInner
+/Users/jak/repos/fpps/patmat/src/main/scala/patmat/Huffman.scala -> encode
+/Users/jak/repos/fpps/patmat/src/main/scala/patmat/Huffman.scala -> encodeInner
+/Users/jak/repos/fpps/patmat/src/main/scala/patmat/Huffman.scala -> eq
+/Users/jak/repos/fpps/patmat/src/main/scala/patmat/Huffman.scala -> finalizeHash
+/Users/jak/repos/fpps/patmat/src/main/scala/patmat/Huffman.scala -> findAndIncrease
+/Users/jak/repos/fpps/patmat/src/main/scala/patmat/Huffman.scala -> frenchCode
+/Users/jak/repos/fpps/patmat/src/main/scala/patmat/Huffman.scala -> freqs
+/Users/jak/repos/fpps/patmat/src/main/scala/patmat/Huffman.scala -> getClass
+/Users/jak/repos/fpps/patmat/src/main/scala/patmat/Huffman.scala -> head
+/Users/jak/repos/fpps/patmat/src/main/scala/patmat/Huffman.scala -> immutable
+/Users/jak/repos/fpps/patmat/src/main/scala/patmat/Huffman.scala -> insertBeforeBigger
+/Users/jak/repos/fpps/patmat/src/main/scala/patmat/Huffman.scala -> insertInOrder
+/Users/jak/repos/fpps/patmat/src/main/scala/patmat/Huffman.scala -> isInstanceOf
+/Users/jak/repos/fpps/patmat/src/main/scala/patmat/Huffman.scala -> leaf
+/Users/jak/repos/fpps/patmat/src/main/scala/patmat/Huffman.scala -> left
+/Users/jak/repos/fpps/patmat/src/main/scala/patmat/Huffman.scala -> listAcc
+/Users/jak/repos/fpps/patmat/src/main/scala/patmat/Huffman.scala -> makeCodeTree
+/Users/jak/repos/fpps/patmat/src/main/scala/patmat/Huffman.scala -> makeOrderedLeafList
+/Users/jak/repos/fpps/patmat/src/main/scala/patmat/Huffman.scala -> makeOrderedLeafListInner
+/Users/jak/repos/fpps/patmat/src/main/scala/patmat/Huffman.scala -> mergeCodeTables
+/Users/jak/repos/fpps/patmat/src/main/scala/patmat/Huffman.scala -> mix
+/Users/jak/repos/fpps/patmat/src/main/scala/patmat/Huffman.scala -> package
+/Users/jak/repos/fpps/patmat/src/main/scala/patmat/Huffman.scala -> patmat
+/Users/jak/repos/fpps/patmat/src/main/scala/patmat/Huffman.scala -> println
+/Users/jak/repos/fpps/patmat/src/main/scala/patmat/Huffman.scala -> quickEncode
+/Users/jak/repos/fpps/patmat/src/main/scala/patmat/Huffman.scala -> quickEncodeInner
+/Users/jak/repos/fpps/patmat/src/main/scala/patmat/Huffman.scala -> result
+/Users/jak/repos/fpps/patmat/src/main/scala/patmat/Huffman.scala -> right
+/Users/jak/repos/fpps/patmat/src/main/scala/patmat/Huffman.scala -> runtime
+/Users/jak/repos/fpps/patmat/src/main/scala/patmat/Huffman.scala -> scala
+/Users/jak/repos/fpps/patmat/src/main/scala/patmat/Huffman.scala -> secret
+/Users/jak/repos/fpps/patmat/src/main/scala/patmat/Huffman.scala -> singleton
+/Users/jak/repos/fpps/patmat/src/main/scala/patmat/Huffman.scala -> sortedTrees
+/Users/jak/repos/fpps/patmat/src/main/scala/patmat/Huffman.scala -> str
+/Users/jak/repos/fpps/patmat/src/main/scala/patmat/Huffman.scala -> string2Chars
+/Users/jak/repos/fpps/patmat/src/main/scala/patmat/Huffman.scala -> table
+/Users/jak/repos/fpps/patmat/src/main/scala/patmat/Huffman.scala -> tail
+/Users/jak/repos/fpps/patmat/src/main/scala/patmat/Huffman.scala -> text
+/Users/jak/repos/fpps/patmat/src/main/scala/patmat/Huffman.scala -> textChar
+/Users/jak/repos/fpps/patmat/src/main/scala/patmat/Huffman.scala -> times
+/Users/jak/repos/fpps/patmat/src/main/scala/patmat/Huffman.scala -> timesInner
+/Users/jak/repos/fpps/patmat/src/main/scala/patmat/Huffman.scala -> toInt
+/Users/jak/repos/fpps/patmat/src/main/scala/patmat/Huffman.scala -> toList
+/Users/jak/repos/fpps/patmat/src/main/scala/patmat/Huffman.scala -> toString
+/Users/jak/repos/fpps/patmat/src/main/scala/patmat/Huffman.scala -> tree
+/Users/jak/repos/fpps/patmat/src/main/scala/patmat/Huffman.scala -> treeIter
+/Users/jak/repos/fpps/patmat/src/main/scala/patmat/Huffman.scala -> trees
+/Users/jak/repos/fpps/patmat/src/main/scala/patmat/Huffman.scala -> typedProductIterator
+/Users/jak/repos/fpps/patmat/src/main/scala/patmat/Huffman.scala -> until
+/Users/jak/repos/fpps/patmat/src/main/scala/patmat/Huffman.scala -> weight
+/Users/jak/repos/fpps/patmat/src/main/scala/patmat/Huffman.scala -> x
+/Users/jak/repos/fpps/patmat/src/main/scala/patmat/Huffman.scala -> ||
+product stamps:
+12 items
+/Users/jak/repos/fpps/patmat/target/scala-2.11/classes/common/package$$anonfun$subFile$1.class -> lastModified(1467092941000)
+/Users/jak/repos/fpps/patmat/target/scala-2.11/classes/common/package$.class -> lastModified(1467092941000)
+/Users/jak/repos/fpps/patmat/target/scala-2.11/classes/common/package.class -> lastModified(1467092941000)
+/Users/jak/repos/fpps/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$createCodeTree$1.class -> lastModified(1467172816000)
+/Users/jak/repos/fpps/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$createCodeTree$2.class -> lastModified(1467172816000)
+/Users/jak/repos/fpps/patmat/target/scala-2.11/classes/patmat/Huffman$.class -> lastModified(1467172816000)
+/Users/jak/repos/fpps/patmat/target/scala-2.11/classes/patmat/Huffman$CodeTree.class -> lastModified(1467172816000)
+/Users/jak/repos/fpps/patmat/target/scala-2.11/classes/patmat/Huffman$Fork$.class -> lastModified(1467172816000)
+/Users/jak/repos/fpps/patmat/target/scala-2.11/classes/patmat/Huffman$Fork.class -> lastModified(1467172816000)
+/Users/jak/repos/fpps/patmat/target/scala-2.11/classes/patmat/Huffman$Leaf$.class -> lastModified(1467172816000)
+/Users/jak/repos/fpps/patmat/target/scala-2.11/classes/patmat/Huffman$Leaf.class -> lastModified(1467172816000)
+/Users/jak/repos/fpps/patmat/target/scala-2.11/classes/patmat/Huffman.class -> lastModified(1467172816000)
+source stamps:
+2 items
+/Users/jak/repos/fpps/patmat/src/main/scala/common/package.scala -> hash(885b8f12a5b2a83dad658f76cc1fdd678a38d4a8)
+/Users/jak/repos/fpps/patmat/src/main/scala/patmat/Huffman.scala -> hash(4e6de1d16c3f1cf1adcd0ed04434765d65c8ecd2)
+binary stamps:
+2 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1459485740000)
+/Users/jak/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> lastModified(1435004218000)
+class names:
+2 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/jak/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> scala.Product
+internal apis:
+2 items
+/Users/jak/repos/fpps/patmat/src/main/scala/common/package.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCH2I3RAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAGHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cMm+MXx0AAZub3RpZnlzcQB+AAyE/M00dAAHcGFja2FnZXNxAH4ADCYSurZ0AAR3YWl0c3EAfgAM8efqjHQADSRhc0luc3RhbmNlT2ZzcQB+AAzNivwPdAAGZXF1YWxzc3EAfgAM8WxUaXQADGFzSW5zdGFuY2VPZnNxAH4ADM7IhUp0AAxzeW5jaHJvbml6ZWRzcQB+AAxYw5T1dAANJGlzSW5zdGFuY2VPZnNxAH4ADKo9iEt0ABdyZXNvdXJjZUFzU3RyZWFtRnJvbVNyY3NxAH4ADIN8vFN0AAlub3RpZnlBbGxzcQB+AAwmJKnKdAAMaXNJbnN0YW5jZU9mc3EAfgAMacTab3QAAz8/P3NxAH4ADJp6YJF0AAI9PXNxAH4ADPKN8FN0AAVjbG9uZXNxAH4ADGdM1iN0AAdzdWJGaWxlc3EAfgAMJCvh6HQACHRvU3RyaW5nc3EAfgAMP7rEanQAAiE9c3EAfgAMCJe6qnQACGdldENsYXNzc3EAfgAMCCpDk3QAAm5lc3EAfgAMGnQJi3QAAmVxc3EAfgAMkxI1z3QAAiMjc3EAfgAMjXTkU3QACGZpbmFsaXplc3EAfgAMVNQ/iHQACGhhc2hDb2Rlc3EAfgAMe21E9HQAAyoqKnNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEd4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0AA5jb21tb24ucGFja2FnZXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AGB4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AF8Bc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEdMAAlpbmhlcml0ZWRxAH4AR0wAB3BhcmVudHNxAH4AR3hxAH4AaHNxAH4AXwF1cQB+AEIAAAAAcHNxAH4AXwF1cQB+AEIAAAAAcHNxAH4AXwF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGd0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGdzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AIB0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AIFzcQB+AHR0AANBbnlzcQB+AHhzcQB+AHt1cQB+AH4AAAACc3EAfgCAdAAFc2NhbGFxAH4Ah3BwdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAGY29tbW9uc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFVlY2oSXVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0ADYvVXNlcnMvamFrL3JlcG9zL2ZwcHMvcGF0bWF0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABSIW48SpbKoPa1lj3bMH91nijjUqA==
+/Users/jak/repos/fpps/patmat/src/main/scala/patmat/Huffman.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCd3NSsAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAASXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cLyYZ/h0ABJpbnNlcnRCZWZvcmVCaWdnZXJzcQB+AAwQakbmdAAGbm90aWZ5c3EAfgAM4+NAg3QADG1ha2VDb2RlVHJlZXNxAH4ADDDX38B0AAZzZWNyZXRzcQB+AAz55g4JdAAHdW5hcHBseXNxAH4ADKaQCUR0AAZlbmNvZGVzcQB+AAxhsP6NdAAGd2VpZ2h0c3EAfgAMe0B32nQAB2N1cnJpZWRzcQB+AAzZ+AMmdAAEd2FpdHNxAH4ADD9MXYV0AA5jb3B5JGRlZmF1bHQkMnNxAH4ADJ8yRD50AA0kYXNJbnN0YW5jZU9mc3EAfgAMoU+ao3QADHByb2R1Y3RBcml0eXNxAH4ADK2KQsV0AAZlcXVhbHNzcQB+AAxTS/judAALcXVpY2tFbmNvZGVzcQB+AAy7muE1dAALZW5jb2RlSW5uZXJzcQB+AAxnJV5jdAAMYXNJbnN0YW5jZU9mc3EAfgAMmcIySXQADHN5bmNocm9uaXplZHNxAH4ADDOC3Zh0AARsZWZ0c3EAfgAMLz8moXQADSRpc0luc3RhbmNlT2ZzcQB+AAwqE35fdAAYbWFrZU9yZGVyZWRMZWFmTGlzdElubmVyc3EAfgAM6CqqoHQAD2ZpbmRBbmRJbmNyZWFzZXNxAH4ADORtY5h0AAZ0dXBsZWRzcQB+AAzljEqQdAAHSHVmZm1hbnNxAH4ADK8z4NV0AAhjYW5FcXVhbHNxAH4ADNy4Kpl0AA5jb3B5JGRlZmF1bHQkNHNxAH4ADEQxBL90AARtYWluc3EAfgAM6aMAh3QABGNoYXJzcQB+AAy4FAb8dAAGZGVjb2Rlc3EAfgAMj8K8snQADWluc2VydEluT3JkZXJzcQB+AAxnteCcdAAETGVhZnNxAH4ADNSf+JB0AAhjb2RlQml0c3NxAH4ADASF1GR0AA1wcm9kdWN0UHJlZml4c3EAfgAMdMhQTXQABXVudGlsc3EAfgAM1rKAsXQACmZyZW5jaENvZGVzcQB+AAz0F+spdAAJbm90aWZ5QWxsc3EAfgAMi9wBCXQAC3JlYWRSZXNvbHZlc3EAfgAM6sYZDnQABWNoYXJzc3EAfgAMCuoq/3QADGlzSW5zdGFuY2VPZnNxAH4ADDRxsyN0AAY8aW5pdD5zcQB+AAzb7l0ZdAAFYXBwbHlzcQB+AAz+TOuvdAANZGVjb2RlZFNlY3JldHNxAH4ADCTov5x0AAI9PXNxAH4ADBL0or10AAVjbG9uZXNxAH4ADBgXJOF0AA9tZXJnZUNvZGVUYWJsZXNzcQB+AAwIKvVAdAAFdGltZXNzcQB+AAzzaPoydAAHY29tYmluZXNxAH4ADERLuAZ0AAp0aW1lc0lubmVyc3EAfgAMmiZunnQADmNvcHkkZGVmYXVsdCQzc3EAfgAMvj6PcnQABGNvcHlzcQB+AAxf3ETIdAAMc3RyaW5nMkNoYXJzc3EAfgAM1GDg6nQACHRvU3RyaW5nc3EAfgAMjocP53QACXNpbmdsZXRvbnNxAH4ADNqLXi10AAIhPXNxAH4ADFU3Yyx0AAtkZWNvZGVJbm5lcnNxAH4ADKItZap0AAhnZXRDbGFzc3NxAH4ADBoL2sF0AAlDb2RlVGFibGVzcQB+AAxHYPjfdAAOY3JlYXRlQ29kZVRyZWVzcQB+AAxF8kE2dAAOY29weSRkZWZhdWx0JDFzcQB+AAzpGBnKdAAQcXVpY2tFbmNvZGVJbm5lcnNxAH4ADPatRDx0AARGb3Jrc3EAfgAMJcagknQAA0JpdHNxAH4ADLKQ9W90AAJuZXNxAH4ADEPAr8h0ABNtYWtlT3JkZXJlZExlYWZMaXN0c3EAfgAMfcYV7XQACmNvbnZlcnRBY2NzcQB+AAwXcm2rdAAIQ29kZVRyZWVzcQB+AAzHdG2RdAACZXFzcQB+AAyHeQSodAAHY29udmVydHNxAH4ADF4e7tV0AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAwZrS4GdAAFcmlnaHRzcQB+AAwhplqIdAACIyNzcQB+AAwzMJ0XdAAIZmluYWxpemVzcQB+AAxVJdcedAAOcHJvZHVjdEVsZW1lbnRzcQB+AAzRwE+9dAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgCpeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAOcGF0bWF0Lkh1ZmZtYW51cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgDCeHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgDBAHBzcQB+AMZzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AqUwACWluaGVyaXRlZHEAfgCpTAAHcGFyZW50c3EAfgCpeHEAfgDKc3EAfgDBAHBzcQB+AMZ1cQB+AKQAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AKpxAH4As3VxAH4AtAAAAABzcQB+ALYAcQB+AEF1cQB+ALkAAAAAc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AyXQABFVuaXRzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AMlzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AOd1cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgDUeHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgC8dAAFUGxhaW50AARhcmdzc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgDbWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgDJc3EAfgDadAAFQXJyYXlxAH4A4HVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgDadAAGU3RyaW5nc3EAfgDec3EAfgDhdXEAfgDkAAAAA3NxAH4A5nQABGphdmFzcQB+AOZ0AARsYW5ncQB+AOtzcQB+AMEAcHNxAH4AxnVxAH4ApAAAAABzcQB+AMEAcHNxAH4AxnVxAH4A/wAAAAJzcQB+ANp0AAZPYmplY3RxAH4BA3NxAH4A2nQAA0FueXEAfgDgdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAGcGF0bWF0c3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFVmlB/33VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0ADYvVXNlcnMvamFrL3JlcG9zL2ZwcHMvcGF0bWF0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABRObeHRbD8c8a3NDtBENHZdZcjs0g==
+external apis:
+0 items
+source infos:
+2 items
+/Users/jak/repos/fpps/patmat/src/main/scala/common/package.scala -> 
+AAAAAAAAAAA=
+/Users/jak/repos/fpps/patmat/src/main/scala/patmat/Huffman.scala -> 
+AAAAAAAAAAA=
+compilations:
+2 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVZWNqEl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQANi9Vc2Vycy9qYWsvcmVwb3MvZnBwcy9wYXRtYXQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVZpQf991cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQANi9Vc2Vycy9qYWsvcmVwb3MvZnBwcy9wYXRtYXQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=

@@ -4,7 +4,7 @@
 		module="progfun1-objsets$sources_2.11"
 		revision="0.1-SNAPSHOT"
 		status="integration"
-		publication="20160627153237"
+		publication="20160701154001"
 	/>
 	<configurations>
 		<conf name="default" visibility="public" description=""/>

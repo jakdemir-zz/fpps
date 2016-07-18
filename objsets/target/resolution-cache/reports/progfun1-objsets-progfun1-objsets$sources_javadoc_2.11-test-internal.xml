@@ -7,7 +7,7 @@
 		revision="0.1-SNAPSHOT"
 		conf="test-internal"
 		confs="compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, scala-tool"
-		date="20160627153238"/>
+		date="20160701154002"/>
 	<dependencies>
 		<module organisation="org.scala-lang.modules" name="scala-parser-combinators_2.11">
 			<revision name="1.0.4" status="release" pubdate="20150430100747" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://www.scala-lang.org/" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="4">
@@ -54,11 +54,11 @@
 					<artifact name="junit" type="doc" ext="jar" extra-classifier="javadoc" status="no" details="" size="424758" time="0" location="/Users/jak/.ivy2/cache/junit/junit/docs/junit-4.10-javadoc.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/junit/junit/4.10/junit-4.10-javadoc.jar"/>
 					</artifact>
-					<artifact name="junit" type="jar" ext="jar" status="no" details="" size="253160" time="0" location="/Users/jak/.ivy2/cache/junit/junit/jars/junit-4.10.jar">
-						<origin-location is-local="false" location="https://repo1.maven.org/maven2/junit/junit/4.10/junit-4.10.jar"/>
-					</artifact>
 					<artifact name="junit" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="141185" time="0" location="/Users/jak/.ivy2/cache/junit/junit/srcs/junit-4.10-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/junit/junit/4.10/junit-4.10-sources.jar"/>
+					</artifact>
+					<artifact name="junit" type="jar" ext="jar" status="no" details="" size="253160" time="0" location="/Users/jak/.ivy2/cache/junit/junit/jars/junit-4.10.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/junit/junit/4.10/junit-4.10.jar"/>
 					</artifact>
 				</artifacts>
 			</revision>
