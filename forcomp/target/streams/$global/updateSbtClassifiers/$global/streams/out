@@ -890,9 +890,9 @@
 [debug] 	[NOT REQUIRED] org.scala-sbt#test-agent;0.13.9!test-agent.jar
 [debug] 	[NOT REQUIRED] org.scala-sbt#test-interface;1.0!test-interface.jar
 [debug] 	[NOT REQUIRED] org.scala-sbt#apply-macro;0.13.9!apply-macro.jar
-[debug] :: resolution report :: resolve 760ms :: artifacts dl 29ms
+[debug] :: resolution report :: resolve 1207ms :: artifacts dl 37ms
 [debug] 	report for progfun1-forcomp#progfun1-forcomp$sbt_2.11;0.1-SNAPSHOT default produced in /Users/jak/repos/fpps/forcomp/target/resolution-cache/reports/progfun1-forcomp-progfun1-forcomp$sbt_2.11-default.xml
-[debug] 	resolve done (760ms resolve - 29ms download)
+[debug] 	resolve done (1207ms resolve - 37ms download)
 [debug] Using inline dependencies specified in Scala.
 [debug] :: resolving dependencies :: progfun1-forcomp#progfun1-forcomp$sources_2.11;0.1-SNAPSHOT
 [debug] 	confs: [default]
@@ -1334,6 +1334,6 @@
 [debug] 	[NOT REQUIRED] org.apache.commons#commons-lang3;3.4!commons-lang3.jar(src)
 [debug] 	[NOT REQUIRED] org.scalaz#scalaz-core_2.10;7.1.0!scalaz-core_2.10.jar(src)
 [debug] 	[NOT REQUIRED] org.scalaz#scalaz-effect_2.10;7.1.0!scalaz-effect_2.10.jar(src)
-[debug] :: resolution report :: resolve 189ms :: artifacts dl 42ms
+[debug] :: resolution report :: resolve 215ms :: artifacts dl 27ms
 [debug] 	report for progfun1-forcomp#progfun1-forcomp$sources_2.11;0.1-SNAPSHOT default produced in /Users/jak/repos/fpps/forcomp/target/resolution-cache/reports/progfun1-forcomp-progfun1-forcomp$sources_2.11-default.xml
-[debug] 	resolve done (189ms resolve - 42ms download)
+[debug] 	resolve done (215ms resolve - 27ms download)

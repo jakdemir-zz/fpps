@@ -8,7 +8,7 @@ import org.scalatest.junit.JUnitRunner
 import Anagrams._
 
 @RunWith(classOf[JUnitRunner])
-class AnagramsSuite extends FunSuite  {
+class AnagramsSuite extends FunSuite {
 
   test("wordOccurrences: abcd") {
     assert(wordOccurrences("abcd") === List(('a', 1), ('b', 1), ('c', 1), ('d', 1)))
@@ -37,7 +37,25 @@ class AnagramsSuite extends FunSuite  {
     assert(wordAnagrams("player").toSet === Set("parley", "pearly", "player", "replay"))
   }
 
-  /*
+  test("combinations: []") {
+    assert(combinations(Nil) === List(Nil))
+  }
+
+  test("combinations: abba") {
+    val abba = List(('a', 2), ('b', 2))
+    val abbacomb = List(
+      List(),
+      List(('a', 1)),
+      List(('a', 2)),
+      List(('b', 1)),
+      List(('a', 1), ('b', 1)),
+      List(('a', 2), ('b', 1)),
+      List(('b', 2)),
+      List(('a', 1), ('b', 2)),
+      List(('a', 2), ('b', 2))
+    )
+    assert(combinations(abba).toSet === abbacomb.toSet)
+  }
   
   
     test("subtract: lard - r") {
@@ -46,27 +64,20 @@ class AnagramsSuite extends FunSuite  {
       val lad = List(('a', 1), ('d', 1), ('l', 1))
       assert(subtract(lard, r) === lad)
     }
+
+  test("subtract: llard - l") {
+    val lard = List(('a', 1), ('d', 1), ('l', 6), ('r', 1))
+    val r = List(('l', 1))
+    val lad = List(('a', 1), ('d', 1), ('l', 5), ('r', 1))
+    assert(subtract(lard, r) === lad)
+  }
+
+  test("subtract: Empty") {
+    val lard = List(('a', 1), ('d', 1), ('l', 1), ('r', 1))
+
+    assert(subtract(lard, lard) === List[(Char, Int)]())
+  }
   
-  
-    test("combinations: []") {
-      assert(combinations(Nil) === List(Nil))
-    }
-  
-    test("combinations: abba") {
-      val abba = List(('a', 2), ('b', 2))
-      val abbacomb = List(
-        List(),
-        List(('a', 1)),
-        List(('a', 2)),
-        List(('b', 1)),
-        List(('a', 1), ('b', 1)),
-        List(('a', 2), ('b', 1)),
-        List(('b', 2)),
-        List(('a', 1), ('b', 2)),
-        List(('a', 2), ('b', 2))
-      )
-      assert(combinations(abba).toSet === abbacomb.toSet)
-    }
   
   
     test("sentence anagrams: []") {
@@ -100,6 +111,4 @@ class AnagramsSuite extends FunSuite  {
       )
       assert(sentenceAnagrams(sentence).toSet === anas.toSet)
     }
-  */
-
 }
